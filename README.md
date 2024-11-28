@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id= "Header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnZXZha24xOHR5azBqdjIycGx2bDJtcDZ2eHplMjY5dWR3d2Q3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
+<img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnZXZha24xOHR5azBqdjIycGx2bDJtcDZ2eHplMjY5dWR3d2Q3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw17aaIMKEA1A9EreGD95IgB&ust=1732894826063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDMk7eu_4kDFQAAAAAdAAAAABAE)" width="50%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Henin</h1>
