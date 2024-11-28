@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://henin-6024.github.io/Portfolio/](https://henin-6024.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://henin-6024.github.io/Portfolio/](https://henin-io.vercel.app/)
 
 - 💬 Ask me about **Frontend, python , java , etc**
 
