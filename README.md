@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id= "Header" align="center">
-<img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBnZXZha24xOHR5azBqdjIycGx2bDJtcDZ2eHplMjY5dWR3d2Q3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="60%" align="center" padding-left="200px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Henin</h1>
